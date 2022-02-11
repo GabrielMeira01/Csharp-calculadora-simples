@@ -1,0 +1,11 @@
+C:\Repositorio\calculadora-simples\calculadora-simples\bin\Debug\calculadora-simples.exe.config
+C:\Repositorio\calculadora-simples\calculadora-simples\bin\Debug\calculadora-simples.exe
+C:\Repositorio\calculadora-simples\calculadora-simples\bin\Debug\calculadora-simples.pdb
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora-simples.csproj.AssemblyReference.cache
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora-simples.csproj.SuggestedBindingRedirects.cache
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora_simples.Form1.resources
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora_simples.Properties.Resources.resources
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora-simples.csproj.GenerateResource.cache
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora-simples.csproj.CoreCompileInputs.cache
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora-simples.exe
+C:\Repositorio\calculadora-simples\calculadora-simples\obj\Debug\calculadora-simples.pdb
